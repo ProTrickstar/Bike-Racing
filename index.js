@@ -1,7 +1,7 @@
 var c = document.createElement("canvas");
 var ctx = c.getContext("2d");
-c.width = 1500;
-c.height = 672;
+c.width = 1000;
+c.height = 500;
 document.body.appendChild(c);
 
 var perm = [];
